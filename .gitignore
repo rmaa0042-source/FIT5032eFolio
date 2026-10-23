@@ -13,6 +13,12 @@ dist
 dist-ssr
 coverage
 *.local
+.env
+
+# Local evidence and generated report files
+evidence/
+output/
+tmp/
 
 /cypress/videos/
 /cypress/screenshots/
